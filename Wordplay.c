@@ -535,11 +535,82 @@ void display_file()
 }
 int main()
 {
+    
     int a,i,j,n,b,c,d,p,marks=0,pk,trig;
     char ans[10],chh,ch;
     time_t end,curr;
-    printf("\n\n\n\n");
-    printf("\t\t\t\t WORDPLAY \n\n\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+    printf("..#.##.#..\n");
+    printf("..##..##..\n");
+    printf("..#....#..\n");
+    
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..######..\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+    printf("..######..\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..######..\n");
+    printf("..#....#..\n");
+    printf("..#.##...\n");
+    printf("..#...#...\n");
+    printf("..#....#..\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+    
+    printf("..#####...\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+    printf("..#####...\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..######..\n");
+    printf("..#....#..\n");
+    printf("..######..\n");
+    printf("..#.......\n");
+    printf("..#.......\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..#.......\n");
+    printf("..#.......\n");
+    printf("..#.......\n");
+    printf("..#.......\n");
+    printf("..######..\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..######..\n");
+    printf("..#....#..\n");
+    printf("..######..\n");
+    printf("..#....#..\n");
+    printf("..#....#..\n");
+
+    printf("\n\n\n");
+    printf("\n\n\n");
+
+    printf("..#....#..\n");
+    printf("...#..#...\n");
+    printf("....##....\n");
+    printf("....##....\n");
+    printf("....##....\n");
+    
+    printf("\n\n\n");
+    printf("\n\n\n");
+
     for(i=0;i<5;i++)
     {
         end=time(NULL)+1;
