@@ -539,7 +539,26 @@ int main()
     char ans[10],chh,ch;
     time_t end,curr;
     printf("\n\n\n\n");
-    printf("\t\t\t\t WORDPLAY \n\n\n");
+                                                                                                                                                                       
+printf("                                                                                        dddddddd\n");delay(750);                                                                   
+printf("                                                                                        d::::::d                   lllllll\n");delay(750);                                                                            
+printf("                                                                                        d::::::d                   l:::::l\n");delay(750);                         
+printf("                                                                                        d:::::d                    l:::::l\n");delay(750);                                         
+printf("wwwwwww           wwwww           wwwwwww ooooooooooo   rrrrr   rrrrrrrrr       ddddddddd:::::dppppp   ppppppppp    l::::l                yyyyyyy          yyyyyyy\n");delay(750);
+printf("w:::::w         w:::::w         w:::::woo:::::::::::oo r::::rrr:::::::::r    dd::::::::::::::dp::::ppp:::::::::p    l::::l            a::::ay:::::y       y:::::y\n");delay(750); 
+printf("   w:::::w     w:::::::::w     w:::::w o:::::ooooo:::::orr::::::rrrrr::::::rd:::::::ddddd:::::dpp::::::ppppp::::::p l::::l            a::::a y:::::y     y:::::y\n");delay(750);   
+printf("    w:::::w   w:::::w:::::w   w:::::w  o::::o     o::::o r:::::r     r:::::rd::::::d    d:::::d p:::::p     p:::::p l::::l     aaaaaaa:::::a  y:::::y   y:::::y\n");delay(750);    
+printf("     w:::::w w:::::w w:::::w w:::::w   o::::o     o::::o r:::::r     rrrrrrrd:::::d     d:::::d p:::::p     p:::::p l::::l   aa::::::::::::a   y:::::y y:::::y\n");delay(750);     
+printf("      w:::::w:::::w   w:::::w:::::w    o::::o     o::::o r:::::r            d:::::d     d:::::d p:::::p     p:::::p l::::l  a::::aaaa::::::a    y:::::y:::::y\n");delay(750);      
+printf("       w:::::::::w     w:::::::::w     o::::o     o::::o r:::::r            d:::::d     d:::::d p:::::p    p::::::p l::::l a::::a    a:::::a     y:::::::::y\n");delay(750);       
+printf("        w:::::::w       w:::::::w      o:::::ooooo:::::o r:::::r            d::::::ddddd::::::ddp:::::ppppp:::::::pl::::::la::::a    a:::::a      y:::::::y\n");delay(750);        
+printf("         w:::::w         w:::::w       o:::::::::::::::o r:::::r             d:::::::::::::::::dp::::::::::::::::p l::::::la:::::aaaa::::::a       y:::::y\n");delay(750);         
+printf("          w:::w           w:::w         oo:::::::::::oo  r:::::r              d:::::::::ddd::::dp::::::::::::::pp  l::::::l a::::::::::aa:::a     y:::::y\n");delay(750);          
+printf("           www             www            ooooooooooo    rrrrrrr               ddddddddd   dddddp::::::pppppppp    llllllll  aaaaaaaaaa  aaaa    y:::::y\n");delay(750);          
+printf("                                                                                                p:::::p                                         y:::::y\n");delay(750);            
+printf("                                                                                                p:::::p                                        y:::::y\n");delay(750);             
+printf("                                                                                               ppppppppp \n");delay(750);                                                 
+                                                                                                                                                                   
     for(i=0;i<5;i++)
     {
         end=time(NULL)+1;
